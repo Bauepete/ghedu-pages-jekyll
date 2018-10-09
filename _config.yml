@@ -2,6 +2,6 @@ title: Show Your Skills
 email: p.bauer@htl-leonding.ac.at
 description: > # this means to ignore newlines until "baseurl:"
   Sharpen your coding skills in this hackathon.
-url: "https://bauepete.github.io/showYourSkills"
+url: "https://bauepete.github.io/ghedu-pages-jekyll"
 github_username:  bauepete
-baseurl: /showYourSkills
+baseurl: /ghedu-pages-jekyll
